@@ -5,5 +5,6 @@ Solves sudoku puzzles using a backtracking algorithm
 To run, use:
 `python graphics.py`
 
-dependencies:
+Dependencies:
 PyGame
+Python 3.8.4
